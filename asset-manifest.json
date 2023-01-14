@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/curriculo-website/static/css/main.4086c091.css",
+    "main.js": "/curriculo-website/static/js/main.8701c4b3.js",
+    "static/media/bg-1.jpg": "/curriculo-website/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/me.webp": "/curriculo-website/static/media/me.9624d427ec8dc4cabb0a.webp",
+    "static/media/bg-3.webp": "/curriculo-website/static/media/bg-3.646f85eaab69c1878f5a.webp",
+    "static/media/sabrina.jpg": "/curriculo-website/static/media/sabrina.deebd35856a75ce93974.jpg",
+    "static/media/Poppins-Thin.ttf": "/curriculo-website/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/curriculo-website/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/curriculo-website/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/curriculo-website/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/curriculo-website/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/curriculo-website/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/curriculo-website/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.webp": "/curriculo-website/static/media/mailz.f0a075f888df4a0a3eb8.webp",
+    "static/media/thaina.jpg": "/curriculo-website/static/media/thaina.e4944be7361341f02ed4.jpg",
+    "static/media/leo.jpg": "/curriculo-website/static/media/leo.463cf5bd0e9ac9fd41c4.jpg",
+    "static/media/luiza.jpg": "/curriculo-website/static/media/luiza.0656d0573d83f454e398.jpg",
+    "static/media/leonardo.jpg": "/curriculo-website/static/media/leonardo.3c7a23df2732a2982331.jpg",
+    "static/media/fernanda.jpg": "/curriculo-website/static/media/fernanda.526c03f027c73e28810b.jpg",
+    "index.html": "/curriculo-website/index.html",
+    "static/media/programming-skills.svg": "/curriculo-website/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/curriculo-website/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/curriculo-website/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/curriculo-website/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/curriculo-website/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.4086c091.css.map": "/curriculo-website/static/css/main.4086c091.css.map",
+    "main.8701c4b3.js.map": "/curriculo-website/static/js/main.8701c4b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4086c091.css",
+    "static/js/main.8701c4b3.js"
+  ]
+}
